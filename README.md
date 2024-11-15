@@ -38,11 +38,6 @@ Responsive Design: 📱 Ensured mobile-friendly design for a seamless experience
   ✔️ Validate login functionality with registered and unregistered users.  
   ⚠️ Test positive and negative scenarios for login and registration.
 
-## Installation and Setup
-To run this project locally:
 
-### Prerequisites
-- **Node.js** and **MongoDB** installed on your machine.
-- **Angular CLI** installed globally.
 
 
